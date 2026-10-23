@@ -3,3 +3,4 @@ Git Activity 3
 This file is used to practice basic Git commands.
 Initial version on the main branch.
 Update made on feature-branch.
+Update made directly on GitHub.
